@@ -1,6 +1,6 @@
 const linksSocialMedia = {
   github: 'jrAiruf',
-  youtube: 'UC51Ixzi6bWa3U2Y0pMtcqvg',
+  youtube: 'channel/UC51Ixzi6bWa3U2Y0pMtcqvg',
   facebook: 'Junim2019',
   instagram: 'jr_oliver.me',
   twitter: 'JniorAiruf'
